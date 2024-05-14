@@ -2,7 +2,6 @@
 
 clear
 
-cd Snake
+ cd ~/Snake
 
 java -jar Snake.jar
- 
