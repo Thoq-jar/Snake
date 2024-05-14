@@ -1,0 +1,8 @@
+#!/bin/bash
+
+clear
+
+cd Snake
+
+java -jar Snake.jar
+ 
